@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_markers_app/static/css/main.4ad09cf7.css",
+    "main.js": "/react_markers_app/static/js/main.65b285aa.js",
+    "index.html": "/react_markers_app/index.html",
+    "main.4ad09cf7.css.map": "/react_markers_app/static/css/main.4ad09cf7.css.map",
+    "main.65b285aa.js.map": "/react_markers_app/static/js/main.65b285aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ad09cf7.css",
+    "static/js/main.65b285aa.js"
+  ]
+}
